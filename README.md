@@ -2,9 +2,9 @@
 
 🚀 Live Project Database - https://lexayudha-static.vercel.app/
 
-💻 Frontend - 
+💻 Frontend - https://github.com/ChillBroh/LexAyudha-FE
 
-💻 Backend - 
+💻 Backend - https://github.com/ChillBroh/LexAyudha-API
 
 
 Dyslexia and dyscalculia, the most common learning disabilities, produce a considerably challenging environment for adolescents and lead to frustration, disengagement, and reduced self-esteem. While assistive technologies with influential functionalities exist, they lack real- time personalization for effective and supportive learning. LexAyudha is an AI-powered platform addressing these gaps by integrating proven medical methodologies such as chromatic variation, Touch Math, and multisensory teaching strategies. Advanced AI technologies like Convolutional and Recurrent Neural Networks have been used in LexAyudha to dynamically adjust reading content, visual layouts, and lesson plans in the gamified app based on students' real-time performances to cater for their requirements. Moreover, a novel emotion recognition algorithm even adjusts difficulty levels of activities and voice output with altered audio features to ensure a stress-free learning process and a stimulating environment. Initial findings based on the user performances tests conducted with the dyslexic and dyscalculia adolescents in Sri Lanka, represents significant improvements in reading fluency, comprehension, and motivation, showing that adaptive learning with AI has the potential to revolutionize learning for dyslexic and dyscalculia students. The research identifies the potential of rehabilitation with AI-driven technology as a flexible and scalable solution for personalized education in dyslexia and dyscalculia.
